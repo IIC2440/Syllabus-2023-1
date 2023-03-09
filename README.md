@@ -17,3 +17,24 @@ Tanto al publicar como comentar, debes atenerte a las **normas**, que consisten 
 - Dentro de lo posible, usar [Markdown](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) para lo que escribas.
 
 **Importante**: El equipo docente puede tardar mas de 24 horas en contestar una _issue_, aunque normalmente el tiempo de respuesta debería ser menor. Por lo mismo, se recomienda **no publicar _issues_ el mismo día de alguna entrega**.
+
+## Calendario Semanal (las clases y las evaluaciones pueden sufrir modificaciones, se avisará con mínimo una semana de anticipación)
+
+| Semana | Tema | Que haremos |
+|---|---|---|
+|13/03| BD Relacionales | Actividad |
+|20/03| BD Relacionales | Actividad Evaluada |
+|27/03| Data Warehousing | Actividad |
+|03/04| Data Warehousing | Actividad Evaluada |
+|10/04| Minería de Datos | Actividad |
+|17/04| Minería de Datos | Actividad, Midterm (19/04 desde las 18:30) |
+|24/04| Minería de Datos | Actividad, Tarea 1 |
+|01/05| RECESO PUC | Descansar (o eso esperamos)|
+|08/05| BD Distribuídas | Actividad |
+|15/05| BD Distribuídas | Actividad Evaluada |
+|22/05| Grafos | Actividad |
+|29/05| Grafos | Actividad, Tarea 2 |
+|05/06| Grafos | Actividad Evaluada |
+|12/06| Otros Tópicos | Actividad |
+|19/06| Otros Tópicos | Actividad |
+|04/07| Examen presencial (desde las 15:30 horas)| |
