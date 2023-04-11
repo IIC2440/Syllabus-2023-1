@@ -1,16 +1,13 @@
 # IIC2440 - Procesamiento de Datos Masivos 2023-1
 
-## Profesores
+En este curso, el alumno aprenderá diversas técnicas utilizadas en la actualidad para manejar grandes cantidades de datos. Estas técnicas serán abordadas desde sus fundamentos hasta su implementación.
+
+Los profesores del curso son:
 
 | 👨‍🏫 Nombre | 📧 Correo |
 |---|---|
 | Juan Reutter | jreutter@ing.puc.cl |
 | Adrián Soto | adrian.soto@ing.puc.cl |
-
-
-## Descripción del curso
-
-Durante el curso, el alumno aprenderá diversas técnicas utilizadas en la actualidad para manejar grandes cantidades de datos. Estas técnicas serán abordadas desde sus fundamentos hasta su implementación.
 
 ## Foro
 
