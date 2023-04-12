@@ -32,14 +32,14 @@ Tanto al publicar como comentar, debes atenerte a las **normas**, que consisten 
 |27/03| Data Warehousing | Actividad |
 |03/04| Data Warehousing | Actividad Evaluada |
 |10/04| Minería de Datos | Actividad |
-|17/04| Minería de Datos | Actividad, Midterm (19/04 desde las 18:30) |
-|24/04| Minería de Datos | Actividad, Tarea 1 |
+|17/04| Minería de Datos | Actividad, Enunciado Tarea 1  |
+|24/04| Minería de Datos |  Midterm (19/04 desde las 18:30)|
 |01/05| RECESO PUC | Descansar (o eso esperamos)|
-|08/05| BD Distribuídas | Actividad |
-|15/05| BD Distribuídas | Actividad Evaluada |
-|22/05| Grafos | Actividad |
-|29/05| Grafos | Actividad, Tarea 2 |
-|05/06| Grafos | Actividad Evaluada |
-|12/06| Otros Tópicos | Actividad |
+|08/05| Minería de Datos | Actividad |
+|15/05| BD Distribuídas | Actividad  |
+|22/05| BD Distribuídas | Actividad Evaluada |
+|29/05| Grafos | Actividad  |
+|05/06| Grafos | Actividad, Tarea 2 |
+|12/06| Grafos | Actividad Evaluada|
 |19/06| Otros Tópicos | Actividad |
 |04/07| Examen presencial (desde las 15:30 horas)| |
