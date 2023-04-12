@@ -33,7 +33,7 @@ Tanto al publicar como comentar, debes atenerte a las **normas**, que consisten 
 |03/04| Data Warehousing | Actividad Evaluada |
 |10/04| Minería de Datos | Actividad |
 |17/04| Minería de Datos | Actividad, Enunciado Tarea 1  |
-|24/04| Minería de Datos |  Midterm (19/04 desde las 18:30)|
+|24/04|  -  |  Midterm (19/04 desde las 18:30)|
 |01/05| RECESO PUC | Descansar (o eso esperamos)|
 |08/05| Minería de Datos | Actividad |
 |15/05| BD Distribuídas | Actividad  |
