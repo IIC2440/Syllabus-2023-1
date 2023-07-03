@@ -43,4 +43,4 @@ Tanto al publicar como comentar, debes atenerte a las **normas**, que consisten 
 |12/06| Grafos | Actividad Evaluada|
 |19/06| (21 de Junio es feriado) | |
 |26/06| Otros Tópicos | Actividad |
-|04/07| Examen presencial (desde las 15:30 horas)| |
+|05/07| Examen presencial (desde las 15:30 horas)| |
